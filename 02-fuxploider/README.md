@@ -90,7 +90,7 @@ XSS: -
 # Scenario 14
 iFUB:T
 CE:  T
-XSS: T
+XSS: -
 
 # Scenario 15
 iFUB:0
