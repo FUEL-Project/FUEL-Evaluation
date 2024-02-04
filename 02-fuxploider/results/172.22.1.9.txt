@@ -1,0 +1,19 @@
+2024-02-04 10:50:57 INFO - ### Starting detection of valid extensions ...
+2024-02-04 10:50:57 INFO - ### Tried 100 extensions,  0 are valid.
+2024-02-04 10:50:57 ERROR - No valid extension found.
+[1;32m
+
+ ___             _     _   _ 
+|  _|_ _ _ _ ___| |___|_|_| |___ ___ 
+|  _| | |_'_| . | | . | | . | -_|  _|
+|_| |___|_,_|  _|_|___|_|___|___|_|
+            |_|
+
+[1m[42m{version 1.0.0}[m
+
+[m[!] legal disclaimer: Usage of fuxploider for attacking targets without
+prior mutual consent is illegal. It is the end user's responsibility to obey
+all applicable local, state and federal laws. Developers assume no liability
+and are not responsible for any misuse or damage caused by this program.
+
+[*] starting at 10:50:57

