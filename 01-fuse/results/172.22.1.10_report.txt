@@ -1,0 +1,29 @@
+File Upload Sinkpoint Explorer v0.2 - Report
+
+[+] Host : http://172.22.1.10/
+[+] Tried Seed : html, js, xhtml, php
+[+] Upload Target URL : http://172.22.1.10/
+[+] Total Execution Time : 50 sec
+[+] Preparing Time : 0 sec
+[+] Average Uploading Time (8 Process) : 25 sec
+[+] Verify Time : 0 sec
+[+] Tried to Upload File : 110012
+[+] Uploaded Files having CE/PCE ability : 4
+
+
+[+] Found Code Executable Uploaded Files( html ) - 2 files
+  Seed(seed/seed.html)	M01_PNG:  696df701d48d12aa4f3d312bfd2037a8_M1PNG.html
+   -> http://172.22.1.10/uploads/696df701d48d12aa4f3d312bfd2037a8_M1PNG.html
+  Seed(seed/seed.html)	M02_PNG:  7966abb15beca3523e56fb16186c97e2_M2PNG.html
+   -> http://172.22.1.10/uploads/7966abb15beca3523e56fb16186c97e2_M2PNG.html
+
+[+] Found Code Executable Uploaded Files( php ) - 2 files
+  Seed(seed/seed.php)	M02_PNG:  b074f8e3a1c6e6c2e9789e9f05a35f78_M2PNG.php
+   -> http://172.22.1.10/uploads/b074f8e3a1c6e6c2e9789e9f05a35f78_M2PNG.php
+  Seed(seed/seed.php)	M01_PNG:  301937bf5e889a14a3dd45ac703f1322_M1PNG.php
+   -> http://172.22.1.10/uploads/301937bf5e889a14a3dd45ac703f1322_M1PNG.php
+
+[-] S1 - .htaccess upload fail or It doesn't work (Secure!)
+
+[-] S1+M3 - .htaccess upload fail or It doesn't work (Secure!)
+

@@ -1,0 +1,23 @@
+File Upload Sinkpoint Explorer v0.2 - Report
+
+[+] Host : http://172.22.1.12/
+[+] Tried Seed : html, js, xhtml, php
+[+] Upload Target URL : http://172.22.1.12/
+[+] Total Execution Time : 54 sec
+[+] Preparing Time : 0 sec
+[+] Average Uploading Time (8 Process) : 27 sec
+[+] Verify Time : 0 sec
+[+] Tried to Upload File : 118010
+[+] Uploaded Files having CE/PCE ability : 2
+
+
+[+] Found Potentially Code Executable Uploaded Files( php ) - 2 files
+  Seed(seed/seed.php)	M04_JPG:  50bcb40ad6503917a102edef04fe8b92_M4JPG.jpg
+   -> http://172.22.1.12/uploads/50bcb40ad6503917a102edef04fe8b92_M4JPG.jpg
+  Seed(seed/seed.php)	M04_PNG:  4cae2cda6626321504dedd097d0db3a7_M4PNG.png
+   -> http://172.22.1.12/uploads/4cae2cda6626321504dedd097d0db3a7_M4PNG.png
+
+[-] S1 - .htaccess upload fail or It doesn't work (Secure!)
+
+[-] S1+M3 - .htaccess upload fail or It doesn't work (Secure!)
+
