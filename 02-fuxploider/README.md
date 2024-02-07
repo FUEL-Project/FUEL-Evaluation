@@ -88,8 +88,8 @@ CE:  -
 XSS: -
 
 # Scenario 14
-iFUB:T
-CE:  T
+iFUB:-
+CE:  -
 XSS: -
 
 # Scenario 15
