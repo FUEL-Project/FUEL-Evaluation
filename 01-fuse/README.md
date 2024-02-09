@@ -59,76 +59,76 @@ sudo docker cp 'fuse:/fuse/172.22.1.1_report.txt' ./results/
 
 
 # Scenario 1
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 2
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 3
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 4
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 5
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 6
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 7
-iFUB:1
-CE:  0
-XSS: 1
+- iFUB:1
+- CE:  0
+- XSS: 1
 
 # Scenario 8
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 9
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 10
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 11
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 12
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0
 
 # Scenario 13
-iFUB:0
-CE:  -
-XSS: 0
+- iFUB:0
+- CE:  -
+- XSS: 0
 
 # Scenario 14
-iFUB:Timeout
-CE:  Timeout
-XSS: Timeout
+- iFUB:Timeout
+- CE:  Timeout
+- XSS: Timeout
 
 # Scenario 15
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0

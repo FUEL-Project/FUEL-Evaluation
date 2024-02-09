@@ -23,76 +23,76 @@ export SCENARIO=1 && timeout 300s echo 'Y' | python3 fuxploider.py -u "http://17
 
 
 # Scenario 1
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 2
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 3
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 4
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 5
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 6
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 7
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 8
-iFUB:0
-CE:  0
-XSS: -
+- iFUB:0
+- CE:  0
+- XSS: -
 
 # Scenario 9
-iFUB:0
-CE:  0
-XSS: -
+- iFUB:0
+- CE:  0
+- XSS: -
 
 # Scenario 10
-iFUB:0
-CE:  0
-XSS: -
+- iFUB:0
+- CE:  0
+- XSS: -
 
 # Scenario 11
-iFUB:0
-CE:  0
-XSS: -
+- iFUB:0
+- CE:  0
+- XSS: -
 
 # Scenario 12
-iFUB:1
-CE:  1
-XSS: -
+- iFUB:1
+- CE:  1
+- XSS: -
 
 # Scenario 13
-iFUB:0
-CE:  -
-XSS: -
+- iFUB:0
+- CE:  -
+- XSS: -
 
 # Scenario 14
-iFUB:-
-CE:  -
-XSS: -
+- iFUB:-
+- CE:  -
+- XSS: -
 
 # Scenario 15
-iFUB:0
-CE:  0
-XSS: -
+- iFUB:0
+- CE:  0
+- XSS: -

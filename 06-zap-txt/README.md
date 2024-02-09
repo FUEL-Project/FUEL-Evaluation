@@ -28,76 +28,76 @@ See `zap-config.png`
 To reuse the session state, first run `gunzip fuel-eval.session.data.gz`.
 
 # Scenario 1
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 2
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 3
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0
 
 # Scenario 4
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 5
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 6
-iFUB:1
-CE:  1
-XSS: 1
+- iFUB:1
+- CE:  1
+- XSS: 1
 
 # Scenario 7
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 8
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 9
-iFUB:1
-CE:  1
-XSS: 0
+- iFUB:1
+- CE:  1
+- XSS: 0
 
 # Scenario 10
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0
 
 # Scenario 11
-iFUB:0
-CE:  0
-XSS: 1
+- iFUB:0
+- CE:  0
+- XSS: 1
 
 # Scenario 12
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0
 
 # Scenario 13
-iFUB:1
-CE:  -
-XSS: 1
+- iFUB:1
+- CE:  -
+- XSS: 1
 
 # Scenario 14
-iFUB:T
-CE:  T
-XSS: T
+- iFUB:T
+- CE:  T
+- XSS: T
 
 # Scenario 15
-iFUB:0
-CE:  0
-XSS: 0
+- iFUB:0
+- CE:  0
+- XSS: 0
