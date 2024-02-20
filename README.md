@@ -7,5 +7,16 @@ Tools tested:
 
 - FUSE
 - Fuxploider
-- BurpSuite Pro + UploadScanner extension
-- ZAP + FileUpload extension
+- BurpSuite Pro + UploadScanner plugin
+- ZAP + FileUpload plugin
+
+Software used:
+
+- Docker: 24.0.7
+- Docker-compose: 2.24.4
+- FUSE: Commit 7dd3a8e
+- Fuxploider: Commit ec8742b
+- ZAP: 2.14.0
+- FileUpload plugin: 1.2.1
+- BurpSuite Professional: 2024.1.1
+- UploadScanner plugin: 1.0.8a
