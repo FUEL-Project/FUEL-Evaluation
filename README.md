@@ -1,7 +1,7 @@
 FUEL Evaluation
 ===============
 
-This repository contains the documentation and results of the evaluation conducted for the paper `Bringing UFUs Back into the Air With FUEL: A Framework for Evaluating the Effectiveness of Unrestricted File Upload Vulnerability Scanners` to be published at DIMVA 2024. 
+This repository contains the documentation and results of the evaluation conducted for the paper `Bringing UFUs Back into the Air With FUEL: A Framework for Evaluating the Effectiveness of Unrestricted File Upload Vulnerability Scanners` to be published at [DIMVA 2024](https://www.dimva.org/dimva2024/). 
 
 FUEL is an abbreviation for File-Upload Exploitation Lab, which aims to model different file upload scenarios that can occur in web applications. FUEL can be found in [this repository](https://github.com/FUEL-Project/FUEL-FileUploadExploitationLab).
 
@@ -48,3 +48,5 @@ If you use the the lab, please cite it as follows:
 ```
 TBD
 ```
+
+You can find a preprint of the paper [here](TBD) and the camera-ready version [here](TBD)
